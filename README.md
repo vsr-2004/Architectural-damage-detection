@@ -2,12 +2,12 @@
 
 # 🏗️ Structural Damage Detection using Machine Learning
 
-Project Overview
+Project Overview:-
 Welcome to the future of infrastructure monitoring! This project leverages the power of Machine Learning to detect structural damage in critical infrastructure like bridges, buildings, and other civil structures. Traditional methods of damage detection are often time-consuming, expensive, and require manual inspection. Our solution aims to provide a more efficient, accurate, and proactive approach by analyzing sensor data to identify anomalies indicative of structural degradation.
 
 By applying intelligent algorithms, we move towards predictive maintenance, extending the lifespan of infrastructure, enhancing safety, and optimizing resource allocation for repairs.
 
-Features
+Features:-
 Data Preprocessing Pipeline: Robust handling of raw sensor data, including cleaning, normalization, and feature engineering.
 Machine Learning Models: Implementation and comparison of various ML algorithms (e.g., SVM, Random Forest, Neural Networks) tailored for classification or regression of damage states.
 Feature Extraction: Techniques for extracting meaningful features from time-series vibration data (e.g., statistical features, frequency-domain features).
